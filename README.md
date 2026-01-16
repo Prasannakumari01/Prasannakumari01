@@ -1,20 +1,23 @@
 # Hi, I'm Prasanna Kumari Guntoju 👋
 
-🎓 B.Tech in Computer Science Engineering (Data Science)  
-🏫 Keshav Memorial Institute of Technology   
-📍 Hyderabad, India  
+I’m a B.Tech Computer Science (Data Science) student who believes that strong fundamentals and disciplined practice matter more than shortcuts.  
+I approach technology with curiosity, patience, and a focus on understanding *why things work*, not just *how to use them*.
 
-I am a Computer Science student focused on building strong technical foundations and developing a disciplined approach to problem solving.  
-I value clarity in concepts, clean implementation, and continuous improvement through practice.
+---
+
+## 🧠 How I Approach Technology
+- I focus on **core computer science concepts** and gradually layer applied skills on top
+- I prefer understanding systems end-to-end rather than isolated tools
+- I value clarity, correctness, and maintainability in code
+- I treat projects as a way to test understanding, not as an end goal
 
 ---
 
 ## 🔭 What I’m Currently Working On
-- Strengthening analytical thinking through regular **Data Structures & Algorithms** practice
-- Improving understanding of **how machine learning systems work end-to-end**, beyond just model training
-- Developing better intuition for **working with data, features, and evaluation**
-- Writing cleaner code and maintaining well-documented repositories
-
+- Improving analytical and logical thinking through **Data Structures & Algorithms**
+- Deepening my understanding of **machine learning workflows**, from data preparation to evaluation
+- Strengthening intuition around **data, features, and performance trade-offs**
+- Writing cleaner code and maintaining well-structured GitHub repositories
 
 ---
 
@@ -22,41 +25,15 @@ I value clarity in concepts, clean implementation, and continuous improvement th
 **Tech Lead – Summer of AI (Swecha Telangana)**  
 *IIIT Hyderabad | May 2025 – July 2025*
 
-- Supported dataset preparation and validation for Telugu language AI tasks  
-- Assisted in testing NLP pipelines under mentor guidance  
-- Coordinated small team activities and tracked assigned tasks  
-- Contributed to documentation for open-source Indic AI tools  
-
----
-
-## 🚀 Projects
-
-### 🔐 AI-Based Intrusion Detection System (Research Project)
-- Designed a machine-learning-based IDS to detect network attacks  
-- Algorithm used: **XGBoost**
-- Achieved **95%+ accuracy** on benchmark datasets  
-- Research paper under publication; implementation details are limited  
-- Focused on documentation, architecture, and evaluation metrics  
-
----
-
-### 🎤 Speech-Based Emotion Recognition
-- Built a real-time emotion detection system using speech signals  
-- Extracted features such as **MFCCs, pitch, and energy**
-- Trained models including **SVM, Random Forest, and CNN**
-- Evaluated on **RAVDESS** and **CREMA-D** datasets  
-
----
-
-### 🤖 IoT & Human Voice Controlled Robot
-- Developed a Python-based robot controlled using voice commands  
-- Integrated speech recognition with IoT modules  
-- Automated basic real-world tasks  
+- Assisted in dataset preparation and validation for Telugu language AI tasks  
+- Supported testing of NLP pipelines under mentor guidance  
+- Coordinated small team activities and tracked assigned work  
+- Contributed to documentation for open-source Indic AI initiatives  
 
 ---
 
 ## 🛠️ Technical Skills
-- **Languages:** Python, C  
+- **Programming:** Python, C  
 - **Machine Learning:** Scikit-learn, TensorFlow  
 - **Web:** HTML, CSS, JavaScript  
 - **Databases:** MySQL, MongoDB  
@@ -64,11 +41,17 @@ I value clarity in concepts, clean implementation, and continuous improvement th
 
 ---
 
-## 📌 Currently Learning
-- Advanced DSA concepts  
-- ML model optimization techniques  
-- Research paper writing and technical documentation  
-- Clean coding practices and basic system design  
+## 🌱 How I Learn
+I learn best by breaking complex topics into smaller, understandable parts and validating my understanding through practice.  
+I actively seek feedback, revisit fundamentals when needed, and focus on consistency over speed.
+
+---
+
+## 🎯 What I’m Aiming For
+- Build technically sound and meaningful software
+- Strengthen my foundation as a computer science engineer
+- Contribute to projects where learning and correctness matter
+- Grow into roles that value problem-solving and long-term thinking
 
 ---
 
@@ -76,4 +59,4 @@ I value clarity in concepts, clean implementation, and continuous improvement th
 - LinkedIn: https://www.linkedin.com/in/prasanna-kumari-guntoju-822542379  
 - Email: prasanna.guntoju04@gmail.com  
 
-⭐ *Open to internships, research opportunities, and learning-focused roles*
+⭐ Open to internships, research-oriented roles, and learning-driven opportunities
