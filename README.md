@@ -4,7 +4,7 @@
 🏫 Keshav Memorial Institute of Technology (2024–2027)  
 📍 Hyderabad, India  
 
-I am a student actively building skills in **Machine Learning, Speech AI, and Cybersecurity**.  
+I am a student actively building skills in **Machine Learning,AI, and Cybersecurity**.  
 I enjoy working on real-world problems, research-driven projects, and improving my fundamentals step by step.
 
 ---
