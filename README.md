@@ -4,15 +4,17 @@
 🏫 Keshav Memorial Institute of Technology   
 📍 Hyderabad, India  
 
-I am a student actively building skills in **Machine Learning, AI, and Cybersecurity**.  
-I enjoy working on real-world problems, research-oriented tasks, and strengthening my core computer science fundamentals.
+I am a Computer Science student focused on building strong technical foundations and developing a disciplined approach to problem solving.  
+I value clarity in concepts, clean implementation, and continuous improvement through practice.
 
 ---
 
 ## 🔭 What I’m Currently Working On
-- Strengthening problem-solving skills in **Data Structures & Algorithms**
-- Improving understanding of **Machine Learning pipelines**, including feature extraction and model evaluation
-- Gaining deeper exposure to **speech signal processing concepts**
+- Strengthening analytical thinking through regular **Data Structures & Algorithms** practice
+- Improving understanding of **how machine learning systems work end-to-end**, beyond just model training
+- Developing better intuition for **working with data, features, and evaluation**
+- Writing cleaner code and maintaining well-documented repositories
+
 
 ---
 
